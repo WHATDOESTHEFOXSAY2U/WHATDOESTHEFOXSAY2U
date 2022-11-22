@@ -9,12 +9,13 @@
 
 - 📫 How to reach me **daveparthn17@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1y5nm5hj9CsYyCJwp03-nCFet3h0oyO7g/view?usp=share_link](https://drive.google.com/file/d/1y5nm5hj9CsYyCJwp03-nCFet3h0oyO7g/view?usp=share_link)
+- 📄 Know about my experiences [shorturl.at/gjk09](shorturl.at/gjk09)
 
 - ⚡ Fun fact **I can fly drones**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/parthdave98/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parthdave98/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/parthdavee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/parthdavee" height="30" width="40" /></a>
 </p>
 
