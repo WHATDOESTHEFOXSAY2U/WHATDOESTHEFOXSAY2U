@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parth</h1>
 <h3 align="center">A Toronto Based Passionate ML Engineer.</h3>
 
-- 🔭 I’m currently with **Scotia Bank**
+- 🔭 I’m currently working with **Scotia Bank**
 
 - 👯 I’m looking to collaborate on exciting **machine learning projects**
 
