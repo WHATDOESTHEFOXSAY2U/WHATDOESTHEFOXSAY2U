@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Parth</h1>
-<h3 align="center">A Toronto Based Passionate ML Engineer.</h3>
+<h1 align="left">Hi 👋, I'm Parth</h1>
+<h3 align="left">A Toronto Based Passionate ML Engineer.</h3>
 
 - 🔭 I’m currently working with **Scotia Bank**
 
