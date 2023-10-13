@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **daveparthn17@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/gjk09](shorturl.at/gjk09)
-
 - ⚡ Fun fact **I can fly drones**
 
 <h3 align="left">Connect with me:</h3>
