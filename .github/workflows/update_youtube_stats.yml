@@ -3,22 +3,26 @@ on:
   schedule:
     - cron: '0 12 * * *'  # Runs at noon every day
   workflow_dispatch:
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
+
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
         python-version: '3.x'
+
     - name: Install dependencies
       run: pip install requests
+
     - name: Fetch YouTube Stats and Update README
       env:
-        API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-        CHANNEL_ID: 'UCjf4X2qXcTHa7KoN3m7VKCg'
+        YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
       run: python fetch_youtube_stats.py
+
     - name: Commit and Push changes
       run: |
         git config --global user.name 'Your GitHub Username'
@@ -26,4 +30,3 @@ jobs:
         git add README.md
         git commit -m "Update YouTube Stats" || echo "No changes to commit"
         git push
-        
