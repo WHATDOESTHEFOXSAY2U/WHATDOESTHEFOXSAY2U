@@ -47,9 +47,9 @@
 
 Join me on my YouTube channel, [**InnoQube**](https://www.youtube.com/@InnoQube/), for in-depth tutorials on AI, machine learning models, and more. Engage with a community of learners and stay updated with the latest in technology and innovation.
 
-![Subscribers](https://img.shields.io/badge/dynamic/json?color=blue&label=Subscribers&query=$.subscriberCount&url=https%3A%2F%2Fyoutube-channel-stats.vercel.app%2Fapi%2Fsubscribers%3FchannelID%3DUCjf4X2qXcTHa7KoN3m7VKCg&style=for-the-badge&logo=YouTube)
-![Views](https://img.shields.io/badge/dynamic/json?color=important&label=Views&query=$.viewCount&url=https%3A%2F%2Fyoutube-channel-stats.vercel.app%2Fapi%2Fviews%3FchannelID%3DUCjf4X2qXcTHa7KoN3m7VKCg&style=for-the-badge&logo=YouTube)
-![Videos](https://img.shields.io/badge/dynamic/json?color=red&label=Videos&query=$.videoCount&url=https%3A%2F%2Fyoutube-channel-stats.vercel.app%2Fapi%2Fvideos%3FchannelID%3DUCjf4X2qXcTHa7KoN3m7VKCg&style=for-the-badge&logo=YouTube)
+https://img.shields.io/badge/dynamic/json?color=blue&label=Subscribers&query=$.subscriberCount&url=https%3A%2F%2Fyoutube-channel-stats.vercel.app%2Fapi%2Fsubscribers%3FchannelID%3DUCjf4X2qXcTHa7KoN3m7VKCg&style=for-the-badge&logo=YouTubehttps%3A%2F%2Fyoutube-channel-stats.vercel.app%2Fapi%2Fsubscribers%3FchannelID%3DUCjf4X2qXcTHa7KoN3m7VKCg&style=for-the-badge&logo=YouTube)
+https://img.shields.io/badge/dynamic/json?color=important&label=Views&query=$.viewCount&url=https%3A%2F%2Fyoutube-channel-stats.vercel.app%2Fapi%2Fviews%3FchannelID%3DUCjf4X2qXcTHa7KoN3m7VKCg&style=for-the-badge&logo=YouTubehttps%3A%2F%2Fyoutube-channel-stats.vercel.app%2Fapi%2Fviews%3FchannelID%3DUCjf4X2qXcTHa7KoN3m7VKCg&style=for-the-badge&logo=YouTube)
+https://img.shields.io/badge/dynamic/json?color=red&label=Videos&query=$.videoCount&url=https%3A%2F%2Fyoutube-channel-stats.vercel.app%2Fapi%2Fvideos%3FchannelID%3DUCjf4X2qXcTHa7KoN3m7VKCg&style=for-the-badge&logo=YouTubehttps%3A%2F%2Fyoutube-channel-stats.vercel.app%2Fapi%2Fvideos%3FchannelID%3DUCjf4X2qXcTHa7KoN3m7VKCg&style=for-the-badge&logo=YouTube)
 
 
 </div>
