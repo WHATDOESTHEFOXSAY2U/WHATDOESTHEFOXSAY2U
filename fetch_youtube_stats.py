@@ -4,7 +4,6 @@ import requests
 
 YOUTUBE_API_KEY = os.getenv('YOUTUBE_API_KEY')
 CHANNEL_ID = 'UCjf4X2qXcTHa7KoN3m7VKCg'
-print(YOUTUBE_API_KEY, CHANNEL_ID)
 API_URL = f"https://www.googleapis.com/youtube/v3/channels?part=statistics&id={CHANNEL_ID}&key={YOUTUBE_API_KEY}"
 
 def fetch_stats():
