@@ -2,7 +2,7 @@
 import os
 import requests
 
-API_KEY = os.getenv('API_KEY')
+API_KEY = os.getenv('YOUTUBE_API_KEY')
 CHANNEL_ID = 'UCjf4X2qXcTHa7KoN3m7VKCg'
 API_URL = f"https://www.googleapis.com/youtube/v3/channels?part=statistics&id={CHANNEL_ID}&key={API_KEY}"
 
