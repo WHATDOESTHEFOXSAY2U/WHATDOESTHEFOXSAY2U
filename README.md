@@ -47,9 +47,9 @@
 
 Join me on my YouTube channel, [**InnoQube**](https://www.youtube.com/@InnoQube/), for in-depth tutorials on AI, machine learning models, and more. Engage with a community of learners and stay updated with the latest in technology and innovation.
 
-![Subscribers](https://img.shields.io/badge/Subscribers-Number-blue?style=for-the-badge&logo=YouTube)
-![Views](https://img.shields.io/badge/Views-Number-important?style=for-the-badge&logo=YouTube)
-![Videos](https://img.shields.io/badge/Videos-Number-red?style=for-the-badge&logo=YouTube)
+![Subscribers](https://img.shields.io/badge/Subscribers-10000-blue?style=for-the-badge&logo=YouTube)
+![Views](https://img.shields.io/badge/Views-107503-important?style=for-the-badge&logo=YouTube)
+![Videos](https://img.shields.io/badge/Videos-57-red?style=for-the-badge&logo=YouTube)
 
 
 
