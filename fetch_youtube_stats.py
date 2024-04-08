@@ -8,12 +8,14 @@ API_URL = f"https://www.googleapis.com/youtube/v3/channels?part=statistics&id={C
 
 def fetch_stats():
     response = requests.get(API_URL).json()
+    print("API Response:", response)  # Add this line to log the API response
     stats = response['items'][0]['statistics']
     return {
         'subscriberCount': stats['subscriberCount'],
         'viewCount': stats['viewCount'],
         'videoCount': stats['videoCount']
     }
+
 
 def update_readme(stats):
     with open('README.md', 'r') as file:
