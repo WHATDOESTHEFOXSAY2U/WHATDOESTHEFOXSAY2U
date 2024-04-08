@@ -50,6 +50,19 @@ Join me on my YouTube channel, [**InnoQube**](https://www.youtube.com/@InnoQube/
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCjf4X2qXcTHa7KoN3m7VKCg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@InnoQube/)
 [![YouTube Channel Videos](https://img.shields.io/youtube/channel/videos/UCjf4X2qXcTHa7KoN3m7VKCg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@InnoQube/)
 
+<div align="center">
+
+## 📺 InnoQube - My YouTube Channel
+
+Join me on my YouTube channel, [**InnoQube**](https://www.youtube.com/@InnoQube/), for in-depth tutorials on AI, machine learning models, and more. Engage with a community of learners and stay updated with the latest in technology and innovation.
+
+![Subscribers](https://img.shields.io/badge/dynamic/json?color=blue&label=Subscribers&query=subscriberCount&url=placeholder_url_subscribers&style=for-the-badge&logo=YouTube)
+![Views](https://img.shields.io/badge/dynamic/json?color=important&label=Views&query=viewCount&url=placeholder_url_views&style=for-the-badge&logo=YouTube)
+![Videos](https://img.shields.io/badge/dynamic/json?color=red&label=Videos&query=videoCount&url=placeholder_url_videos&style=for-the-badge&logo=YouTube)
+
+</div>
+
+
 ## 🌐 Connect
 
 [![Linkedin Badge](https://img.shields.io/badge/-Parth_Dave-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parthdave98/)
