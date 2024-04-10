@@ -1,13 +1,20 @@
 # Parth Dave 🚀⚡
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCjf4X2qXcTHa7KoN3m7VKCg?style=for-the-badge&logo=YouTube&logoColor=white&color=red)
-[![Linkedin Badge](https://img.shields.io/badge/-Parth_Dave-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parthdave98/)
+![CleanShot 10-04-2024 at 06 49 07@2x](https://github.com/WHATDOESTHEFOXSAY2U/WHATDOESTHEFOXSAY2U/assets/25818677/7586d539-6da5-4992-b276-f55780b9be9b)
 
-<div align="center">
+
+<div align="left">
   
-  ### Welcome to my nexus of innovation and technology. Over two decades in software engineering and open-source development. Dive into AI, machine learning, and beyond.
-  
+  ### Welcome to my nexus of innovation, technology, AI engineering and open-source development.
 </div>
+
+## 📺 InnoQube - My YouTube Channel
+
+Join me on [**InnoQube**](https://www.youtube.com/@InnoQube/) for tutorials on AI and machine learning. Stay engaged and updated.
+
+![Subscribers](https://img.shields.io/badge/Subscribers-10000-blue?style=for-the-badge&logo=YouTube&color=blue)
+![Views](https://img.shields.io/badge/Views-107503-important?style=for-the-badge&logo=YouTube&color=orange)
+![Videos](https://img.shields.io/badge/Videos-57-red?style=for-the-badge&logo=YouTube&color=red)
 
 ## 🌟 Highlights
 
@@ -48,16 +55,11 @@
 - **Seneca College**: Graduate Certificate in Business Analytics, **Top 1%** of the program.
 - **AD Patel Institute of Technology**: Bachelor of Engineering in IT.
 
-## 📺 InnoQube - My YouTube Channel
-
-Join me on [**InnoQube**](https://www.youtube.com/@InnoQube/) for tutorials on AI and machine learning. Stay engaged and updated.
-
-![Subscribers](https://img.shields.io/badge/Subscribers-10000-blue?style=for-the-badge&logo=YouTube&color=blue)
-![Views](https://img.shields.io/badge/Views-107503-important?style=for-the-badge&logo=YouTube&color=orange)
-![Videos](https://img.shields.io/badge/Videos-57-red?style=for-the-badge&logo=YouTube&color=red)
 
 ## 🌐 Connect
   
   ### Join me in coding where every line tells a story. Let's create, innovate, and inspire together!
+  [![Linkedin Badge](https://img.shields.io/badge/-Parth_Dave-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parthdave98/)
+  ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCjf4X2qXcTHa7KoN3m7VKCg?style=for-the-badge&logo=YouTube&logoColor=white&color=red)
   
 </div> 
