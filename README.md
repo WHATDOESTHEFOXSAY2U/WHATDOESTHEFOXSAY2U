@@ -28,14 +28,20 @@
 ## 🛠️ Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-ff9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Alteryx](https://img.shields.io/badge/Alteryx-FF7F00?style=for-the-badge&logo=Alteryx&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-f2c94c?style=for-the-badge&logo=PowerBI&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-e97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![GPT-3](https://img.shields.io/badge/GPT--3-000000?style=for-the-badge&logo=OpenAI&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-FF4B4B?style=for-the-badge&logo=Google&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FF9A00?style=for-the-badge&logo=huggingface&logoColor=white)
+![Natural Language Processing](https://img.shields.io/badge/NLP-31A8FF?style=for-the-badge&logo=NLTK&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0769AD?style=for-the-badge&logo=SciKit-Learn&logoColor=white)
+
 
 ## 📚 Education
 
