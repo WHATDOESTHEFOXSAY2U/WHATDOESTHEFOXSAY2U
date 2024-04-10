@@ -1,6 +1,6 @@
 # Parth Dave 🚀⚡
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCjf4X2qXcTHa7KCg?style=for-the-badge&logo=YouTube&logoColor=white)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCjf4X2qXcTHa7KoN3m7VKCg?style=for-the-badge&logo=YouTube&logoColor=white&color=red)
 [![Linkedin Badge](https://img.shields.io/badge/-Parth_Dave-ff69b4?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/parthdave98/)
 [![Website](https://img.shields.io/badge/daveparth.com-0A0A0A?style=for-the-badge&logo=Google-Chrome&logoColor=white)](http://daveparth.com/)
 
