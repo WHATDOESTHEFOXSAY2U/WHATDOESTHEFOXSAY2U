@@ -19,15 +19,14 @@ def update_readme(stats):
     with open('README.md', 'r') as file:
         readme_contents = file.read()
 
-    # Function to replace the count in the README based on the label
     def replace_count(match):
         label = match.group(1)
         # Convert label to correct case to match keys in the stats dictionary
         key = f"{label.lower()}Count"
-        new_count = stats[key]  # Safely fetch the count using the correct key
+        new_count = stats[key]  # Access count using correct key
         return f"{label}-{new_count}"
 
-    # Regular expression to replace counts in the README
+    # Use regex to dynamically find and replace subscriber, view, and video counts in the README
     new_contents = re.sub(r"(Subscribers|Views|Videos)-\d+", replace_count, readme_contents)
 
     with open('README.md', 'w') as file:
