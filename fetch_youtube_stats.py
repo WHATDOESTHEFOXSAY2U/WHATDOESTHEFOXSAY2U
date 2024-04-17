@@ -9,6 +9,7 @@ API_URL = f"https://www.googleapis.com/youtube/v3/channels?part=statistics&id={C
 def fetch_stats():
     response = requests.get(API_URL).json()
     stats = response['items'][0]['statistics']
+    print("Fetched Stats:", stats)  # Print to verify correct fetching of stats
     return {
         'subscriberCount': stats['subscriberCount'],
         'viewCount': stats['viewCount'],
@@ -21,13 +22,17 @@ def update_readme(stats):
 
     def replace_count(match):
         label = match.group(1)
-        # Convert label to correct case to match keys in the stats dictionary
         key = f"{label.lower()}Count"
-        new_count = stats[key]  # Access count using correct key
-        return f"{label}-{new_count}"
+        print("Label and Key being used:", label, key)  # Debugging to verify the correct key is formed
+        if key in stats:
+            new_count = stats[key]
+            return f"{label}-{new_count}"
+        else:
+            print(f"KeyError: '{key}' not found in stats")  # Print error if key not found
+            return match.group(0)  # Return the original match if key is not found
 
-    # Use regex to dynamically find and replace subscriber, view, and video counts in the README
     new_contents = re.sub(r"(Subscribers|Views|Videos)-\d+", replace_count, readme_contents)
+    print("Updated README Content:", new_contents)  # Print the updated contents for verification
 
     with open('README.md', 'w') as file:
         file.write(new_contents)
