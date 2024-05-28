@@ -13,8 +13,8 @@
 Join me on [**InnoQube**](https://www.youtube.com/@InnoQube/) for tutorials on AI and machine learning. Stay engaged and updated.
 
 ![Subscribers](https://img.shields.io/badge/Subscribers-9950-blue?style=for-the-badge&logo=YouTube&color=blue)
-![Views](https://img.shields.io/badge/Views-111847-important?style=for-the-badge&logo=YouTube&color=orange)
-![Videos](https://img.shields.io/badge/Videos-63-red?style=for-the-badge&logo=YouTube&color=red)
+![Views](https://img.shields.io/badge/Views-111891-important?style=for-the-badge&logo=YouTube&color=orange)
+![Videos](https://img.shields.io/badge/Videos-64-red?style=for-the-badge&logo=YouTube&color=red)
 
 ## 🌟 Highlights
 
